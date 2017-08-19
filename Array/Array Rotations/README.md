@@ -1,3 +1,3 @@
 # Questions #
 
-### Array Rotation ### [ http://www.geeksforgeeks.org/array-rotation/ ]
+### Array Rotation [ http://www.geeksforgeeks.org/array-rotation/ ]
