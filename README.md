@@ -1,3 +1,6 @@
-# Soloutions for GeekforGeeks Problems 
+# Soloutions for GeekforGeeks Problems
 
-### Topic Wise Solution ###
+## Topic Wise Solution ##
+
+* ### Stack
+* [ http://practice.geeksforgeeks.org/topics/Stack/]
