@@ -1,6 +1,2 @@
-# Soloutions for GeekforGeeks Problems
-
-## Topic Wise Solution ##
-
-* ### Stack
-* [ http://practice.geeksforgeeks.org/topics/Stack/]
+<h1> 100 Days of Algorithms </h1>
+<p> Code of Various Algorithms</p>
